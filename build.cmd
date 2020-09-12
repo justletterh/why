@@ -1,5 +1,5 @@
 @echo off
 gcc o1.c -o o1.exe
-go build w.go
-rustc d.rs
+.\bin\go\bin\go build w.go
+.\bin\rust\bin\rustc d.rs
 .\bin\bf !3.bf !3.exe

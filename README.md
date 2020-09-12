@@ -1,6 +1,8 @@
 # About
 This is just a extremely over complicated hello world program that I split between several programming languages.
-# Languages Used
+# Dependencies
+* [Visual studio c++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+## Languages Used
 * H - [Python](https://www.python.org/)
 * e - [Node JS](https://nodejs.org/en/)
 * l1 - [Lua](https://www.lua.org/)
