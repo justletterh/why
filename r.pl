@@ -1,4 +1,4 @@
 sub main {
-  print "r"
+  print "r";
 }
 main();
