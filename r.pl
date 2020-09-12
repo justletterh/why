@@ -1,1 +1,4 @@
-print "r"
+sub main {
+  print "r"
+}
+main();
