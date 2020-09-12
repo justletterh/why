@@ -14,3 +14,4 @@ d
 call !1.bat
 tclsh !2.tcl
 !3
+del !3.exe d.exe d.pdb o.exe w.exe
