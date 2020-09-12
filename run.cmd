@@ -5,7 +5,8 @@ py -3 h.py
 node e.js
 lua l1.lua
 ruby l2.rb
-o&&rem o.c
+rem o.c
+o
 julia space.jl
 rem w.go
 w
