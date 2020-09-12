@@ -1,0 +1,4 @@
+#!/usr/bin/env perl6
+sub MAIN(:$name, :$auth, :$ver, *@, *%) {
+    CompUnit::RepositoryRegistry.run-script("zef", :$name, :$auth, :$ver);
+}

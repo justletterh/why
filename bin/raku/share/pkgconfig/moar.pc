@@ -1,0 +1,21 @@
+# pkg-config information for MoarVM 2020.08
+#
+prefix=D:\a\1\source\rakudo-2020.08.2\install
+package=moar
+includedir=D:\a\1\source\rakudo-2020.08.2\install/include
+bindir=D:\a\1\source\rakudo-2020.08.2\install/bin
+libdir=D:\a\1\source\rakudo-2020.08.2\install/bin
+mastdir=D:\a\1\source\rakudo-2020.08.2\install/share/nqp/lib/MAST
+ldopts=/nologo /LTCG 
+exeext=.exe
+version=2020.08
+moar=D:\a\1\source\rakudo-2020.08.2\install/bin/moar.exe
+libs=/nologo /LTCG  -LD:\a\1\source\rakudo-2020.08.2\install/bin -lmoar
+static_libs=
+
+Name:           MoarVM
+Description:    A virtual machine for Rakudo Perl 6 and NQP
+URL:            http://moarvm.org
+Version:        2020.08
+Libs:           /nologo /LTCG  -LD:\a\1\source\rakudo-2020.08.2\install/bin -lmoar
+Cflags:         -ID:\a\1\source\rakudo-2020.08.2\install/include

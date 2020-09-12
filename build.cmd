@@ -1,5 +1,5 @@
 @echo off
-gcc o.c -o o.exe
+gcc o1.c -o o1.exe
 go build w.go
 rustc d.rs
-./bin/bf !3.bf !3.exe
+.\bin\bf !3.bf !3.exe

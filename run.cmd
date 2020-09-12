@@ -5,19 +5,20 @@ py -3 h.py
 node e.js
 lua l1.lua
 ruby l2.rb
-rem o.c
-o
+rem runs the compiled executable for o1.c
+o1
 julia space.jl
-rem w.go
+rem runs the compiled executable for w.go
 w
 bash o2.bash
 perl r.pl
 php l3.php
-rem d.rs
+rem runs the compiled executable for d.rs
 d
 call !1.bat
 tclsh !2.tcl
-rem !3.bf
+rem runs the compiled executable for !3.bf
 !3
+call .\bin\raku\raku newline.raku
 rem deletes the compiled executables
-del !3.exe d.exe d.pdb o.exe w.exe
+del !3.exe d.exe d.pdb o1.exe w.exe
