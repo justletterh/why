@@ -6,6 +6,7 @@ This is just a extremely over complicated hello world program that I split betwe
 * [Python 3.7](https://www.python.org/downloads/)
 * [NodeJS](https://nodejs.org/en/download/)
 * [Ruby](https://www.ruby-lang.org/en/downloads/)
+* [GoLang](https://golang.org/dl/)
 ## Languages Used
 * H - [Python](https://www.python.org/)
 * e - [Node JS](https://nodejs.org/en/)
