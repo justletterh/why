@@ -8,6 +8,7 @@ This is just a extremely over complicated hello world program that I split betwe
 * [Ruby](https://www.ruby-lang.org/en/downloads/)
 * [GoLang](https://golang.org/dl/)
 * [Cygwin](https://cygwin.com/install.html)
+* [Rust](https://www.rust-lang.org/tools/install)
 ## Languages Used
 * H - [Python](https://www.python.org/)
 * e - [Node JS](https://nodejs.org/en/)
