@@ -1,5 +1,5 @@
 @echo off
 :main
-printf !
+echo | set /p=!
 EXIT /B 0
 main
