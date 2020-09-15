@@ -25,4 +25,6 @@ This is just a extremely over complicated hello world program that I split betwe
 * !2 - [TCL](https://www.tcl.tk/)
 * !3 - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 * newline - [Raku](https://www.raku.org/)
+* credit - [Java](https://www.java.com/en/)
+* contact - [Unlambda](https://en.wikipedia.org/wiki/Unlambda)
 * everything else - [Batch](https://en.wikipedia.org/wiki/Batch_file)
